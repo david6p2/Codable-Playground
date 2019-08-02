@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Problem1'/>
+        <page name='Problem2'/>
+        <page name='Problem3'/>
+        <page name='Problem4'/>
+        <page name='Problem5'/>
+        <page name='Problem6'/>
+        <page name='Problem7SnakeCase'/>
+        <page name='Problem8Dates'/>
+        <page name='Problem9Subclass'/>
+        <page name='Problem1Solved'/>
+        <page name='Problem2Solved'/>
+        <page name='Problem3Solved'/>
+        <page name='Problem4Solved'/>
+        <page name='Prioblem5Solved'/>
+        <page name='Problem6Solved'/>
+        <page name='Problem7SnakeCaseSolved'/>
+    </pages>
+</playground>

@@ -1,0 +1,2449 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5d41b5f6a62069002320dee3"
+    },
+    "response": {
+        "suggestedFilters": {
+            "header": "Tap to show:",
+            "filters": [
+                {
+                    "name": "Open now",
+                    "key": "openNow"
+                },
+                {
+                    "name": "$-$$$$",
+                    "key": "price"
+                }
+            ]
+        },
+        "geocode": {
+            "what": "",
+            "where": "new york",
+            "center": {
+                "lat": 40.742185,
+                "lng": -73.992602
+            },
+            "displayString": "New York, NY, United States",
+            "cc": "US",
+            "geometry": {
+                "bounds": {
+                    "ne": {
+                        "lat": 40.882214,
+                        "lng": -73.907
+                    },
+                    "sw": {
+                        "lat": 40.679548,
+                        "lng": -74.047285
+                    }
+                }
+            },
+            "slug": "new-york-city-new-york",
+            "longId": "72057594043056517"
+        },
+        "headerLocation": "New York",
+        "headerFullLocation": "New York",
+        "headerLocationGranularity": "city",
+        "totalResults": 236,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 40.8124854694542,
+                "lng": -73.94910462069855
+            },
+            "sw": {
+                "lat": 40.687612677122786,
+                "lng": -74.0135069653305
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "412d2800f964a520df0c1fe3",
+                            "name": "Central Park",
+                            "contact": {},
+                            "location": {
+                                "address": "59th St to 110th St",
+                                "crossStreet": "5th Ave to Central Park West",
+                                "lat": 40.78408342593807,
+                                "lng": -73.96485328674316,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.78408342593807,
+                                        "lng": -73.96485328674316
+                                    }
+                                ],
+                                "postalCode": "10028",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "59th St to 110th St (5th Ave to Central Park West)",
+                                    "New York, NY 10028",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 6,
+                                "summary": "6 people are here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 6,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-412d2800f964a520df0c1fe3-0"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "430d0a00f964a5203e271fe3",
+                            "name": "Brooklyn Bridge Park",
+                            "contact": {},
+                            "location": {
+                                "address": "Main St",
+                                "crossStreet": "Plymouth St",
+                                "lat": 40.702282,
+                                "lng": -73.996456,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.702282,
+                                        "lng": -73.996456
+                                    }
+                                ],
+                                "postalCode": "11201",
+                                "cc": "US",
+                                "neighborhood": "DUMBO, Brooklyn, NY",
+                                "city": "Brooklyn",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Main St (Plymouth St)",
+                                    "Brooklyn, NY 11201",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 2,
+                                "summary": "2 people are here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 2,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-430d0a00f964a5203e271fe3-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ec0a81fb6341cd41f1ef402",
+                            "name": "Minskoff Theatre",
+                            "contact": {},
+                            "location": {
+                                "address": "1515 Broadway",
+                                "crossStreet": "at W 45th St",
+                                "lat": 40.75738906224092,
+                                "lng": -73.98553701970972,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.75738906224092,
+                                        "lng": -73.98553701970972
+                                    }
+                                ],
+                                "postalCode": "10036",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "1515 Broadway (at W 45th St)",
+                                    "New York, NY 10036",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d137941735",
+                                    "name": "Theater",
+                                    "pluralName": "Theaters",
+                                    "shortName": "Theater",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/performingarts_theater_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4ec0a81fb6341cd41f1ef402-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a66f31af964a520dcc81fe3",
+                            "name": "Equinox West 50th Street",
+                            "contact": {},
+                            "location": {
+                                "address": "1633 Broadway",
+                                "crossStreet": "at Paramount Plz",
+                                "lat": 40.761912,
+                                "lng": -73.984268,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.761912,
+                                        "lng": -73.984268
+                                    }
+                                ],
+                                "postalCode": "10019",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "1633 Broadway (at Paramount Plz)",
+                                    "New York, NY 10019",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d176941735",
+                                    "name": "Gym",
+                                    "pluralName": "Gyms",
+                                    "shortName": "Gym",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/gym_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4a66f31af964a520dcc81fe3-3"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ed6adfce5fabbd89f617d4f",
+                            "name": "Hudson River Greenway Running Path",
+                            "contact": {},
+                            "location": {
+                                "address": "Hudson River Greenway",
+                                "crossStreet": "btwn Battery Park & W 72nd St",
+                                "lat": 40.73255155774,
+                                "lng": -74.01057958602905,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.73255155774,
+                                        "lng": -74.01057958602905
+                                    }
+                                ],
+                                "postalCode": "10282",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Hudson River Greenway (btwn Battery Park & W 72nd St)",
+                                    "New York, NY 10282",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d159941735",
+                                    "name": "Trail",
+                                    "pluralName": "Trails",
+                                    "shortName": "Trail",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "125324441"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4ed6adfce5fabbd89f617d4f-4"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "427c0500f964a52097211fe3",
+                            "name": "The Metropolitan Museum of Art (Metropolitan Museum of Art)",
+                            "contact": {},
+                            "location": {
+                                "address": "1000 5th Ave",
+                                "crossStreet": "btwn E 80th & E 84th St",
+                                "lat": 40.77972902126812,
+                                "lng": -73.96341562271118,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.77972902126812,
+                                        "lng": -73.96341562271118
+                                    }
+                                ],
+                                "postalCode": "10028",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "1000 5th Ave (btwn E 80th & E 84th St)",
+                                    "New York, NY 10028",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d18f941735",
+                                    "name": "Art Museum",
+                                    "pluralName": "Art Museums",
+                                    "shortName": "Art Museum",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/museum_art_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 1,
+                                "summary": "One other person is here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 1,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-427c0500f964a52097211fe3-5"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b240a1ff964a520b25f24e3",
+                            "name": "Hudson River Park",
+                            "contact": {},
+                            "location": {
+                                "address": "West St",
+                                "crossStreet": "btwn Battery Pl & W 59th St",
+                                "lat": 40.733486648634525,
+                                "lng": -74.01050581951031,
+                                "postalCode": "10011",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "West St (btwn Battery Pl & W 59th St)",
+                                    "New York, NY 10011",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b240a1ff964a520b25f24e3-6"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "43222200f964a5209c271fe3",
+                            "name": "Gantry Plaza State Park",
+                            "contact": {},
+                            "location": {
+                                "address": "474 48th Ave",
+                                "crossStreet": "at Center Blvd",
+                                "lat": 40.74655794031174,
+                                "lng": -73.9580512046814,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.74655794031174,
+                                        "lng": -73.9580512046814
+                                    }
+                                ],
+                                "postalCode": "11109",
+                                "cc": "US",
+                                "city": "Queens",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "474 48th Ave (at Center Blvd)",
+                                    "Long Island City, NY 11109",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "5bae9231bedf3950379f89d0",
+                                    "name": "State \/ Provincial Park",
+                                    "pluralName": "State \/ Provincial Parks",
+                                    "shortName": "State \/ Provincial Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-43222200f964a5209c271fe3-7"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a9ad8d2f964a520213320e3",
+                            "name": "Conservatory Garden",
+                            "contact": {},
+                            "location": {
+                                "address": "1231 5th Ave",
+                                "crossStreet": "at 105th St",
+                                "lat": 40.793531,
+                                "lng": -73.952032,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.793531,
+                                        "lng": -73.952032
+                                    }
+                                ],
+                                "postalCode": "10029",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "1231 5th Ave (at 105th St)",
+                                    "New York, NY 10029",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d15a941735",
+                                    "name": "Garden",
+                                    "pluralName": "Gardens",
+                                    "shortName": "Garden",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/garden_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4a9ad8d2f964a520213320e3-8"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "59580ce6db1d8148fee3d383",
+                            "name": "Los Tacos No. 1",
+                            "contact": {},
+                            "location": {
+                                "address": "229 W 43rd St",
+                                "crossStreet": "btwn 7th & 8th Ave",
+                                "lat": 40.75713361630251,
+                                "lng": -73.98753586979832,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.75713361630251,
+                                        "lng": -73.98753586979832
+                                    }
+                                ],
+                                "postalCode": "10036",
+                                "cc": "US",
+                                "neighborhood": "Theater District",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "229 W 43rd St (btwn 7th & 8th Ave)",
+                                    "New York, NY 10036",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d151941735",
+                                    "name": "Taco Place",
+                                    "pluralName": "Taco Places",
+                                    "shortName": "Tacos",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/taco_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 1,
+                                "summary": "One other person is here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 1,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-59580ce6db1d8148fee3d383-9"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "3fd66200f964a520d7f11ee3",
+                            "name": "Bryant Park",
+                            "contact": {},
+                            "location": {
+                                "address": "E 42nd St",
+                                "crossStreet": "btwn 5th & 6th Ave",
+                                "lat": 40.753621,
+                                "lng": -73.983265,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.753621,
+                                        "lng": -73.983265
+                                    }
+                                ],
+                                "postalCode": "10018",
+                                "cc": "US",
+                                "neighborhood": "Midtown",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "E 42nd St (btwn 5th & 6th Ave)",
+                                    "New York, NY 10018",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "delivery": {
+                                "id": "298339",
+                                "url": "https:\/\/www.seamless.com\/menu\/calle-dao-bryant-park-38-w-39th-st-new-york\/298339?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=298339",
+                                "provider": {
+                                    "name": "seamless",
+                                    "icon": {
+                                        "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/cap\/",
+                                        "sizes": [
+                                            40,
+                                            50
+                                        ],
+                                        "name": "\/delivery_provider_seamless_20180129.png"
+                                    }
+                                }
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 3,
+                                "summary": "3 people are here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 3,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-3fd66200f964a520d7f11ee3-10"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4fbbd9ede4b0756c0d4c2364",
+                            "name": "Aire Ancient Baths",
+                            "contact": {},
+                            "location": {
+                                "address": "88 Franklin St",
+                                "crossStreet": "at Church St",
+                                "lat": 40.718141411641234,
+                                "lng": -74.00494121234846,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.718141411641234,
+                                        "lng": -74.00494121234846
+                                    }
+                                ],
+                                "postalCode": "10013",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "88 Franklin St (at Church St)",
+                                    "New York, NY 10013",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1ed941735",
+                                    "name": "Spa",
+                                    "pluralName": "Spas",
+                                    "shortName": "Spa",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/spa_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "191281001"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4fbbd9ede4b0756c0d4c2364-11"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "49f37c28f964a520a36a1fe3",
+                            "name": "Astor Wines & Spirits",
+                            "contact": {},
+                            "location": {
+                                "address": "399 Lafayette St",
+                                "crossStreet": "at E 4th St",
+                                "lat": 40.727984051970246,
+                                "lng": -73.99304720778368,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.727984051970246,
+                                        "lng": -73.99304720778368
+                                    }
+                                ],
+                                "postalCode": "10003",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "399 Lafayette St (at E 4th St)",
+                                    "New York, NY 10003",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d119951735",
+                                    "name": "Wine Shop",
+                                    "pluralName": "Wine Shops",
+                                    "shortName": "Wine Shop",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_wineshop_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "32885042"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-49f37c28f964a520a36a1fe3-12"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "40f1d480f964a5206a0a1fe3",
+                            "name": "High Line",
+                            "contact": {},
+                            "location": {
+                                "address": "btwn Gansevoort & W 34th St",
+                                "crossStreet": "btwn 10th & 12th Ave",
+                                "lat": 40.746825,
+                                "lng": -74.005507,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.746825,
+                                        "lng": -74.005507
+                                    }
+                                ],
+                                "postalCode": "10011",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "btwn Gansevoort & W 34th St (btwn 10th & 12th Ave)",
+                                    "New York, NY 10011",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 4,
+                                "summary": "4 people are here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 4,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-40f1d480f964a5206a0a1fe3-13"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "40abf500f964a52035f31ee3",
+                            "name": "Washington Square Park",
+                            "contact": {},
+                            "location": {
+                                "address": "W 4th St",
+                                "crossStreet": "btwn MacDougal St & University Pl",
+                                "lat": 40.73081579656163,
+                                "lng": -73.9974582195282,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.73081579656163,
+                                        "lng": -73.9974582195282
+                                    }
+                                ],
+                                "postalCode": "10012",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "W 4th St (btwn MacDougal St & University Pl)",
+                                    "New York, NY 10012",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 1,
+                                "summary": "One other person is here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 1,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-40abf500f964a52035f31ee3-14"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5a0e475b018cbb6a2196479e",
+                            "name": "Sushi By Bou",
+                            "contact": {},
+                            "location": {
+                                "address": "49 W 20th St",
+                                "lat": 40.740883116531,
+                                "lng": -73.99352459209372,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.740883116531,
+                                        "lng": -73.99352459209372
+                                    }
+                                ],
+                                "postalCode": "10011",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "49 W 20th St",
+                                    "New York, NY 10011",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1d2941735",
+                                    "name": "Sushi Restaurant",
+                                    "pluralName": "Sushi Restaurants",
+                                    "shortName": "Sushi",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/sushi_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-5a0e475b018cbb6a2196479e-15"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a06ff94f964a52017731fe3",
+                            "name": "Riverside Park",
+                            "contact": {},
+                            "location": {
+                                "address": "Riverside Dr",
+                                "crossStreet": "btwn W 59th St & St. Clair Pl",
+                                "lat": 40.806809433439135,
+                                "lng": -73.96865129470825,
+                                "postalCode": "10025",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Riverside Dr (btwn W 59th St & St. Clair Pl)",
+                                    "New York, NY 10025",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d163941735",
+                                    "name": "Park",
+                                    "pluralName": "Parks",
+                                    "shortName": "Park",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 1,
+                                "summary": "One other person is here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 1,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-4a06ff94f964a52017731fe3-16"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "3fd66200f964a52023e81ee3",
+                            "name": "Lincoln Center for the Performing Arts",
+                            "contact": {},
+                            "location": {
+                                "address": "70 Lincoln Center Plz",
+                                "crossStreet": "btwn Columbus & 10th Ave",
+                                "lat": 40.77263162898585,
+                                "lng": -73.98337884817826,
+                                "postalCode": "10023",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "70 Lincoln Center Plz (btwn Columbus & 10th Ave)",
+                                    "New York, NY 10023",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1f2931735",
+                                    "name": "Performing Arts Venue",
+                                    "pluralName": "Performing Arts Venues",
+                                    "shortName": "Performing Arts",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/performingarts_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-3fd66200f964a52023e81ee3-17"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e2b293ee4cd3bc166926781",
+                            "name": "Brooklyn Bridge Park - Pier 5",
+                            "contact": {},
+                            "location": {
+                                "address": "Brooklyn Bridge Pk Greenway",
+                                "crossStreet": "at Joralemon St",
+                                "lat": 40.694918,
+                                "lng": -74.001686,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.694918,
+                                        "lng": -74.001686
+                                    }
+                                ],
+                                "postalCode": "11201",
+                                "cc": "US",
+                                "city": "Brooklyn",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Brooklyn Bridge Pk Greenway (at Joralemon St)",
+                                    "Brooklyn, NY 11201",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4e74f6cabd41c4836eac4c31",
+                                    "name": "Pier",
+                                    "pluralName": "Piers",
+                                    "shortName": "Piers",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/ferry_pier_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4e2b293ee4cd3bc166926781-18"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "48e480eef964a52022521fe3",
+                            "name": "The Metropolitan Opera (Metropolitan Opera)",
+                            "contact": {},
+                            "location": {
+                                "address": "70 Lincoln Center Plz",
+                                "crossStreet": "at Columbus Ave & W 64th St",
+                                "lat": 40.77274188001071,
+                                "lng": -73.9844012260437,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.77274188001071,
+                                        "lng": -73.9844012260437
+                                    }
+                                ],
+                                "postalCode": "10023",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "70 Lincoln Center Plz (at Columbus Ave & W 64th St)",
+                                    "New York, NY 10023",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d136941735",
+                                    "name": "Opera House",
+                                    "pluralName": "Opera Houses",
+                                    "shortName": "Opera House",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/performingarts_operahouse_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "35504286"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-48e480eef964a52022521fe3-19"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a3d4aecf964a52012a21fe3",
+                            "name": "St. Patrick's Cathedral",
+                            "contact": {},
+                            "location": {
+                                "address": "14 E 51st St",
+                                "crossStreet": "at 5th Ave",
+                                "lat": 40.7583584690861,
+                                "lng": -73.97582607482036,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.7583584690861,
+                                        "lng": -73.97582607482036
+                                    }
+                                ],
+                                "postalCode": "10022",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "14 E 51st St (at 5th Ave)",
+                                    "New York, NY 10022",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d132941735",
+                                    "name": "Church",
+                                    "pluralName": "Churches",
+                                    "shortName": "Church",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/religious_church_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4a3d4aecf964a52012a21fe3-20"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "56bf8899cd102af95de0a66e",
+                            "name": "Metrograph",
+                            "contact": {},
+                            "location": {
+                                "address": "7 Ludlow St",
+                                "crossStreet": "at Canal St",
+                                "lat": 40.714998539086416,
+                                "lng": -73.99103539533131,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.714998539086416,
+                                        "lng": -73.99103539533131
+                                    }
+                                ],
+                                "postalCode": "10002",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "7 Ludlow St (at Canal St)",
+                                    "New York, NY 10002",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d17e941735",
+                                    "name": "Indie Movie Theater",
+                                    "pluralName": "Indie Movie Theaters",
+                                    "shortName": "Indie Movies",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/movietheater_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "events": {
+                                "count": 11,
+                                "summary": "11 movies"
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 1,
+                                "summary": "One other person is here",
+                                "groups": [
+                                    {
+                                        "type": "others",
+                                        "name": "Other people here",
+                                        "count": 1,
+                                        "items": []
+                                    }
+                                ]
+                            }
+                        },
+                        "referralId": "e-0-56bf8899cd102af95de0a66e-21"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "57e9590a498e2d323e20c667",
+                            "name": "Los Mariscos",
+                            "contact": {},
+                            "location": {
+                                "address": "409 West 15th St",
+                                "crossStreet": "9th Ave",
+                                "lat": 40.74199972810892,
+                                "lng": -74.00589003225507,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.74199972810892,
+                                        "lng": -74.00589003225507
+                                    }
+                                ],
+                                "postalCode": "10011",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "409 West 15th St (9th Ave)",
+                                    "New York, NY 10011",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1ce941735",
+                                    "name": "Seafood Restaurant",
+                                    "pluralName": "Seafood Restaurants",
+                                    "shortName": "Seafood",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-57e9590a498e2d323e20c667-22"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a07986bf964a52087731fe3",
+                            "name": "The Public Theater",
+                            "contact": {},
+                            "location": {
+                                "address": "425 Lafayette St",
+                                "crossStreet": "btwn Astor Pl & E 4th St",
+                                "lat": 40.72916880904384,
+                                "lng": -73.99207037967628,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.72916880904384,
+                                        "lng": -73.99207037967628
+                                    }
+                                ],
+                                "postalCode": "10003",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "425 Lafayette St (btwn Astor Pl & E 4th St)",
+                                    "New York, NY 10003",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d137941735",
+                                    "name": "Theater",
+                                    "pluralName": "Theaters",
+                                    "shortName": "Theater",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/performingarts_theater_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4a07986bf964a52087731fe3-23"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "3fd66200f964a5203ee71ee3",
+                            "name": "Murray's Cheese",
+                            "contact": {},
+                            "location": {
+                                "address": "254 Bleecker St",
+                                "crossStreet": "at Cornelia St",
+                                "lat": 40.73100494148146,
+                                "lng": -74.00291557226433,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.73100494148146,
+                                        "lng": -74.00291557226433
+                                    }
+                                ],
+                                "postalCode": "10014",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "254 Bleecker St (at Cornelia St)",
+                                    "New York, NY 10014",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11e951735",
+                                    "name": "Cheese Shop",
+                                    "pluralName": "Cheese Shops",
+                                    "shortName": "Cheese Shop",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_cheese_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "delivery": {
+                                "id": "345311",
+                                "url": "https:\/\/www.seamless.com\/menu\/murrays-cheese-254-bleecker-st-new-york\/345311?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=345311",
+                                "provider": {
+                                    "name": "seamless",
+                                    "icon": {
+                                        "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/cap\/",
+                                        "sizes": [
+                                            40,
+                                            50
+                                        ],
+                                        "name": "\/delivery_provider_seamless_20180129.png"
+                                    }
+                                }
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-3fd66200f964a5203ee71ee3-24"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b81eb25f964a52000c430e3",
+                            "name": "Brooklyn Bridge Park - Pier 6",
+                            "contact": {},
+                            "location": {
+                                "address": "Pier 6",
+                                "crossStreet": "at Atlantic & Furman",
+                                "lat": 40.693288713137854,
+                                "lng": -74.00277972221375,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.693288713137854,
+                                        "lng": -74.00277972221375
+                                    }
+                                ],
+                                "postalCode": "11201",
+                                "cc": "US",
+                                "city": "Brooklyn",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Pier 6 (at Atlantic & Furman)",
+                                    "Brooklyn, NY 11201",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4e74f6cabd41c4836eac4c31",
+                                    "name": "Pier",
+                                    "pluralName": "Piers",
+                                    "shortName": "Piers",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/ferry_pier_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b81eb25f964a52000c430e3-25"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a8cc1d4f964a520130f20e3",
+                            "name": "Strand Bookstore",
+                            "contact": {},
+                            "location": {
+                                "address": "828 Broadway",
+                                "crossStreet": "at E 12th St",
+                                "lat": 40.73314000684355,
+                                "lng": -73.99091161094675,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.73314000684355,
+                                        "lng": -73.99091161094675
+                                    }
+                                ],
+                                "postalCode": "10003",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "828 Broadway (at E 12th St)",
+                                    "New York, NY 10003",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d114951735",
+                                    "name": "Bookstore",
+                                    "pluralName": "Bookstores",
+                                    "shortName": "Bookstore",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/bookstore_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "41313246"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4a8cc1d4f964a520130f20e3-26"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e5ec3c4b9935b74e902e9ee",
+                            "name": "Elf Cosmetics HQ",
+                            "contact": {},
+                            "location": {
+                                "address": "10 W 33rd St Rm 802",
+                                "crossStreet": "5th Avenue",
+                                "lat": 40.72988079657862,
+                                "lng": -73.99235464508372,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.72988079657862,
+                                        "lng": -73.99235464508372
+                                    }
+                                ],
+                                "postalCode": "10001",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "10 W 33rd St Rm 802 (5th Avenue)",
+                                    "New York, NY 10001",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d10c951735",
+                                    "name": "Cosmetics Shop",
+                                    "pluralName": "Cosmetics Shops",
+                                    "shortName": "Cosmetics",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/beauty_cosmetic_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "50553231"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4e5ec3c4b9935b74e902e9ee-27"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b872d23f964a520d1b431e3",
+                            "name": "Last Rites Tattoo Theatre and Art Gallery",
+                            "contact": {},
+                            "location": {
+                                "address": "325 W 38th St. Store 1",
+                                "crossStreet": "8th ave",
+                                "lat": 40.75528497842054,
+                                "lng": -73.99282094351608,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.75528497842054,
+                                        "lng": -73.99282094351608
+                                    }
+                                ],
+                                "postalCode": "10018",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "325 W 38th St. Store 1 (8th ave)",
+                                    "New York, NY 10018",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e2931735",
+                                    "name": "Art Gallery",
+                                    "pluralName": "Art Galleries",
+                                    "shortName": "Art Gallery",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/artgallery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "79370658"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b872d23f964a520d1b431e3-28"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "50b39fe8498ef078fa9c5d01",
+                            "name": "I Love Kickboxing - 43rd Street",
+                            "contact": {},
+                            "location": {
+                                "address": "303 E 43rd Street, Lower Level",
+                                "crossStreet": "2nd Ave.",
+                                "lat": 40.75058,
+                                "lng": -73.97154,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.75058,
+                                        "lng": -73.97154
+                                    }
+                                ],
+                                "postalCode": "10017",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "303 E 43rd Street, Lower Level (2nd Ave.)",
+                                    "New York, NY 10017",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d101941735",
+                                    "name": "Martial Arts Dojo",
+                                    "pluralName": "Martial Arts Dojos",
+                                    "shortName": "Martial Arts",
+                                    "icon": {
+                                        "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/gym_martialarts_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "83797140"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-50b39fe8498ef078fa9c5d01-29"
+                    }
+                ]
+            }
+        ]
+    }
+}
